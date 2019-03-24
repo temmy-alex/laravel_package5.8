@@ -1,0 +1,33 @@
+.bg-light {
+    background-color: #f34c5e !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.container-setting {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar-brand {
+    color: #fff !important;
+}
+
+.container-top {
+    margin-top: 6em;
+}
+
+.right {
+    margin-right: 2em;
+}
+
+.top {
+    margin-top: 2em;
+}
